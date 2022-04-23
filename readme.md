@@ -1,7 +1,7 @@
 ## Different Types of Patterns
 **Programming Language Used - CPP**
 
-* **[Rectangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/1.rectangle.cpp)**
+* **[Rectangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/1_rectangle)**
 ```
 ******
 ******
@@ -10,7 +10,7 @@
 ******
 ```
 
-* **[Hollow Rectangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/2.hollow_rectangle.cpp)**
+* **[Hollow Rectangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/2_hollow_rectangle)**
 ```
 ******
 *    *
@@ -19,7 +19,7 @@
 ******
 ```
 
-* **[Inverted Half Pyramid](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/3.inverted_half_pyramid.cpp)**
+* **[Inverted Half Pyramid](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/3_inverted_half_pyramid)**
 ```
 * * * * * 
 * * * * 
@@ -28,7 +28,7 @@
 * 
 ```
 
-* **[Half Pyramid 180](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/4.half_pyramid_180.cpp)**
+* **[Half Pyramid 180](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/4_half_pyramid_180)**
 ```
              * 
           *  * 
@@ -37,7 +37,7 @@
  *  *  *  *  * 
 ```
 
-* **[Half Pyramid (Number)](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/5.half_pyramid_no.cpp)**
+* **[Half Pyramid (Number)](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/5_half_pyramid_no)**
 ```
 1 
 2 2 
@@ -46,7 +46,7 @@
 5 5 5 5 5 
 ```
 
-* **[Floyd's Triangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/6.floyds_triangle.cpp)**
+* **[Floyd's Triangle](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/6_floyds_triangle)**
 ```
 1  
 2  3  
@@ -55,7 +55,7 @@
 11  12  13  14  15  
 ```
 
-* **[Butterfly](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/7.butterfly.cpp)**
+* **[Butterfly](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/7_butterfly)**
 ```
  *                          * 
  *  *                    *  * 
@@ -69,7 +69,7 @@
  *                          * 
 ```
 
-* **[Inverted Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/8.inverted_pattern.cpp)**
+* **[Inverted Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/8_inverted_pattern)**
 ```
 1 2 3 4 5 
 1 2 3 4 
@@ -78,7 +78,7 @@
 1 
 ```
 
-* **[0-1 Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/9.0-1_pattern.cpp)**
+* **[0-1 Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/9_0-1_pattern)**
 ```
 1 
 0 1 
@@ -87,7 +87,7 @@
 1 0 1 0 1 
 ```
 
-* **[Rhombus Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/10.rhombus_pattern.cpp)**
+* **[Rhombus Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/10_rhombus_pattern)**
 ```
         * * * * * 
       * * * * * 
@@ -96,7 +96,7 @@
 * * * * * 
 ```
 
-* **[Number Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/11.number_pattern.cpp)**
+* **[Number Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/11_number_pattern)**
 ```
    1 
   1 2 
@@ -104,7 +104,7 @@
 1 2 3 4 
 ```
 
-* **[Palindromic Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/12.palindromic_pattern.cpp)**
+* **[Palindromic Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/12_palindromic_pattern)**
 ```
         1 
       2 1 2 
@@ -113,7 +113,7 @@
 5 4 3 2 1 2 3 4 5 
 ```
 
-* **[Star Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/13.star_pattern.cpp)**
+* **[Star Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/13_star_pattern)**
 ```
              * 
           *  *  * 
@@ -127,7 +127,7 @@
              * 
 ```
 
-* **[Zig Zag Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/14.zig_zag_pattern.cpp)**
+* **[Zig Zag Pattern](https://github.com/AgnelSelvan/Pattern-Printing/blob/main/14_zig_zag_pattern)**
 ```
        *           *       
     *     *     *     *    
