@@ -4,8 +4,8 @@ using namespace std;
 
 int main(){
    #ifndef READ_AND_WRITE_OP
-      freopen("input.txt", "r", stdin);
-      freopen("output.txt", "w", stdout);
+      freopen("../input.txt", "r", stdin);
+      freopen("../output.txt", "w", stdout);
    #endif
    int n;
    cin >> n;
